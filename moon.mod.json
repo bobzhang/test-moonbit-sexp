@@ -1,0 +1,6 @@
+{
+  "name": "sexp-test",
+  "deps": {
+    "bobzhang/sexp": "0.1.0"
+  }
+}
