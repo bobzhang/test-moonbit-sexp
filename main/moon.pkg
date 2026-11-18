@@ -1,4 +1,5 @@
 import {
+  "sexp-test/lib",
 }
 
 pkgtype(kind: "executable")
